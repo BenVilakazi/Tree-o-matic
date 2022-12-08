@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/tree-o-matic",
+  "main": "850259c2a3ea8242@331.js",
+  "version": "331.0.0",
+  "homepage": "https://observablehq.com/@mbostock/tree-o-matic",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
